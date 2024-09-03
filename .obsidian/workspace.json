@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Я пидорас.md",
+                "file": "Содержание.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Я пидорас.md",
+                "file": "Содержание.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Я пидорас.md",
+                "file": "Содержание.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Я пидорас.md"
+                "file": "Содержание.md"
               }
             }
           }
@@ -163,6 +163,6 @@
   "active": "5e712851fbbec3cb",
   "lastOpenFiles": [
     "Welcome.md",
-    "Я пидорас.md"
+    "Содержание.md"
   ]
 }
