@@ -1,3 +1,6 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "interfaceFontFamily": "Geist",
+  "textFontFamily": "Geist",
+  "monospaceFontFamily": "JetBrains Mono"
 }
